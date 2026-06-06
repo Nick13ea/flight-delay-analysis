@@ -17,6 +17,7 @@ This project analyzes airline flight delay data using Python to identify carrier
 
 ## Output
 - Carrier delay comparison chart in `/visuals`
+![Flight Delay Chart](visuals/carrier_delay.png)
 
 ## Insight
 Identified best and worst performing airlines based on average delays.
